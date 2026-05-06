@@ -17,5 +17,10 @@ opportunities using advanced SQL queries.
 - ✅ Identified top artists, genres & revenue trends
 - ✅ Helped store understand business growth patterns
 
+
 ## 📁 Files in this Repository
 | File | Description |
+
+| `Music_Store_Query.sql` | All SQL queries — CTEs, Window Functions, Subqueries |
+| `Music_Store_database.sql` | Complete database schema & data |
+| `music store data.zip` | Raw dataset files |
